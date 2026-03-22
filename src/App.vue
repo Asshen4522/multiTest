@@ -8,5 +8,5 @@ import new from './components/new.vue';
   <HelloWorld />
   Привет, мир
   test
-
+  efsgrhmyju,kio
 </template>
