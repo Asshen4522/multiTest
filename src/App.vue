@@ -1,8 +1,11 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue';
 </script>
 
 <template>
+
   <HelloWorld />
   Привет, мир
+	test
+
 </template>
